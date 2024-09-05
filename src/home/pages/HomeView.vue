@@ -13,9 +13,6 @@
           <v-btn color="primary" class="btn_basic" @click="goToGamePage">
             IF 사용자(사용자용)
           </v-btn>
-          <v-btn outlined class="btn_outlined" @click="learnMore">
-            서비스 소개서
-          </v-btn>
         </v-row>
       </div>
       <div class="image-section">
